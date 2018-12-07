@@ -1,17 +1,14 @@
 [[source]]
-url = "https://pypi.python.org/simple"
+url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[requires]
-python_version = "3.7"
+[packages]
+pelican = "*"
+markdown = "*"
+typogrify = "*"
 
 [dev-packages]
 
-[packages]
-
-Markdown = "==2.6.11"
-awscli = "==1.16.9"
-cssmin = "==0.2.0"
-pelican = "==3.7.1"
-webassets = "==0.12.1"
+[requires]
+python_version = "3.6"
