@@ -11,7 +11,7 @@ PATH = "content"
 TIMEZONE = "Asia/Jakarta"
 
 THEME = "themes/kriwil.id"
-DEFAULT_LANG = "id"
+DEFAULT_LANG = "en"
 
 PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["assets", "custom_article_urls", "sitemap"]
