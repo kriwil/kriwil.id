@@ -10,7 +10,7 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 SSH_HOST=kriwil.id
 SSH_PORT=22
-SSH_USER=kriwil
+SSH_USER=aldi
 SSH_TARGET_DIR=/home/aldi/prod/kriwil.id
 
 
